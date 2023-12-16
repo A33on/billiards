@@ -1,0 +1,67 @@
+*{
+	background-color: lightyellow;
+	font-family: garamond;
+	font-size: 24px;
+}
+
+span{
+	color: orangered;
+}
+
+h1{
+	color: cadetblue;
+	text-align: center;
+	font-size: 48px;
+}
+
+h2{
+	color: cadetblue;
+	text-align: center;
+	font-size: 36px;
+}
+
+span.head{
+	color: darkred;
+	font-size: 48px;
+}
+
+span.yellow{
+	color: yellow;
+	font-size: 36px;
+}
+
+span.blue{
+	color: blue;
+	font-size: 36px;
+	
+}
+
+span.red{
+	color: red;
+	font-size: 36px;
+}
+
+span.purple{
+	color: purple;
+	font-size: 36px;
+}
+
+span.orange{
+	color: orange;
+	font-size: 36px;
+}
+
+span.green{
+	color: green;
+	font-size: 36px;
+}
+
+span.maroon{
+	color: maroon;
+	font-size: 36px;
+}
+
+span.black{
+	color: black;
+	font-size: 36px;
+}
